@@ -1,0 +1,14 @@
+/Users/macbookair2020i516256/SolidRefactoringLab/bin/Debug/net10.0/SolidRefactoringLab
+/Users/macbookair2020i516256/SolidRefactoringLab/bin/Debug/net10.0/SolidRefactoringLab.deps.json
+/Users/macbookair2020i516256/SolidRefactoringLab/bin/Debug/net10.0/SolidRefactoringLab.runtimeconfig.json
+/Users/macbookair2020i516256/SolidRefactoringLab/bin/Debug/net10.0/SolidRefactoringLab.dll
+/Users/macbookair2020i516256/SolidRefactoringLab/bin/Debug/net10.0/SolidRefactoringLab.pdb
+/Users/macbookair2020i516256/SolidRefactoringLab/obj/Debug/net10.0/SolidRefactoringLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair2020i516256/SolidRefactoringLab/obj/Debug/net10.0/SolidRefactoringLab.AssemblyInfoInputs.cache
+/Users/macbookair2020i516256/SolidRefactoringLab/obj/Debug/net10.0/SolidRefactoringLab.AssemblyInfo.cs
+/Users/macbookair2020i516256/SolidRefactoringLab/obj/Debug/net10.0/SolidRefactoringLab.csproj.CoreCompileInputs.cache
+/Users/macbookair2020i516256/SolidRefactoringLab/obj/Debug/net10.0/SolidRefactoringLab.dll
+/Users/macbookair2020i516256/SolidRefactoringLab/obj/Debug/net10.0/refint/SolidRefactoringLab.dll
+/Users/macbookair2020i516256/SolidRefactoringLab/obj/Debug/net10.0/SolidRefactoringLab.pdb
+/Users/macbookair2020i516256/SolidRefactoringLab/obj/Debug/net10.0/SolidRefactoringLab.genruntimeconfig.cache
+/Users/macbookair2020i516256/SolidRefactoringLab/obj/Debug/net10.0/ref/SolidRefactoringLab.dll
